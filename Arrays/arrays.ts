@@ -6,11 +6,11 @@ superNumbers.push(4,5,6)
 
 // --------------------------------------------
 
-type User = {
+type User1 = {
     name : string,
     age : number
 }
-const superUsers : User[] = []
+const superUsers : User1[] = []
 // const testUser = {
 //     name : 'testuser',
 //     email : ''
